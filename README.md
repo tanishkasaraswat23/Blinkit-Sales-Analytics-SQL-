@@ -93,7 +93,7 @@ Blinkit-Sales-Analytics-SQL/
 
 ## 🔗 Connected Dashboard
 
-The `vw_outlet_performance` view created in this project powers a Power BI dashboard, available here: *[link to Power BI repo]*
+The `vw_outlet_performance` view created in this project powers a Power BI dashboard, available here: https://github.com/tanishkasaraswat23/Blinkit-Sales-Dashboard---POWER-BI-
 
 ---
 
